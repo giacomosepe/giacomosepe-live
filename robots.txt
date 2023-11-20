@@ -1,3 +1,23 @@
 User-agent: *
-Allow: /
-Sitemap: https://giacomosepe.com/sitemap.xml
+
+Allow: /en/ideas/demand-and-offer/
+
+Allow: /en/
+
+Allow: /en/ideas/
+
+Allow: /en/ideas/live-like-google/
+
+Allow: /en/work/depicciotto-familyoffice/
+
+Allow: /en/work/
+
+Allow: /en/work/cotolicious/
+
+Allow: /en/work/simmetrico/
+
+Allow: /en/categories/
+
+Allow: /en/more-info/
+
+Allow: /en/tags/
